@@ -1,0 +1,1 @@
+INSERT INTO public.privilege ( description, feature_type, name, status) VALUES ('User will be able to assign roles to other users', 'ADMIN', 'CAN_ASSIGN_ROLE', 'ACTIVE');

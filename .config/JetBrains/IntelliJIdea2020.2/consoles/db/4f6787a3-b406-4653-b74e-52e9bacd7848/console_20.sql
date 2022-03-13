@@ -1,0 +1,1 @@
+INSERT INTO public.privilege ( description, feature_type, name, status) VALUES ( 'User will be able to access users', 'ADMIN', 'CAN_ACCESS_USERS', 'ACTIVE');

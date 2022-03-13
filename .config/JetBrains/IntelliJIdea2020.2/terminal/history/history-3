@@ -1,0 +1,584 @@
+wsl
+ls
+exit
+ls
+exit
+ls
+cd
+ls
+cd
+cd 
+pwd
+ls
+man sudo_root
+mkdir pro
+mkdir projects
+rm -rf pro
+cd projects/
+mkdir iramiro
+cd iramiro/
+git clone https://github.com/Iramiro-Org/iramiro-frontend.git
+git config --global credential.helper store
+git pull
+cd iramiro-frontend/
+git pull
+code .
+git checkout -b migrate
+git rm -rf *
+ls
+ls -al
+git clone https://github.com/productdevbook/nuxt3-app.git
+mv nuxt3-app/* .
+ls
+rm -rf nuxt3-app/
+ls
+yarn install
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+ls
+cd projects/
+ls
+mkdir niss
+ls
+cd niss/
+mkdir elms
+cd elms/
+http://197.243.110.146:9999/e-learning/administration-service.git
+git clone http://197.243.110.146:9999/e-learning/administration-service.git
+ls
+cd administration-service/
+free -h
+free --mega -h
+sudo apt update
+sudo apt upgrade
+sudo apt install default-jre
+wget https://download.jetbrains.com/idea/ideaIU-2020.2.3.tar.gz
+ls
+ls ~/Downloads
+mkdir ~/Downloads
+wget https://download.jetbrains.com/idea/ideaIU-2020.2.3.tar.gz
+ls -al
+mv ideaIU-2020.2.3.tar.gz ~/Downloads/
+ls
+cd
+cd Downloads/
+ls
+tar -zxf ideaIU-2020.2.3.tar.gz
+ls
+cd idea-IU-202.7660.26/
+ls
+cd ..
+ls
+rm -rf idea-IU-202.7660.26
+ls
+ls -al
+ls
+cd ..
+cd Downloads/
+ls
+tar -zxf ideaIU-2020.2.3.tar.gz -C /opt/ideaIU-2020.2.3
+tar -zxf ideaIU-2020.2.3.tar.gz -C /opt/
+sudo tar -zxf ideaIU-2020.2.3.tar.gz -C /opt/
+ls
+cd /opt/
+ls
+cd idea-IU-202.7660.26/
+ls
+cd bin/
+ls
+pwd
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd usr/bin/
+ls
+ls -al
+cat idea
+cd
+ls
+cd projects/niss/elms/e
+cd projects/niss/elms/administration-service/
+ls
+./mvn package
+./mvnw clean verify package
+./mvnw clean verify package -DskipTests
+ls cd /
+ls
+clea
+clear
+ls
+cd /
+ls
+cd projects/
+mkdir mine
+cd mine/
+git clone https://github.com/claranceliberi/cmd-and-bash-scripts.git
+cd cmd-and-bash-scripts/
+code .
+idea
+code .
+git push
+ls
+cd
+idea
+ls
+ls
+nano idea
+ls
+chmod -x
+chmod -x idea 
+ls
+ls -al
+chmod u+x idea 
+ls
+./idea 
+ls
+mv idea /usr/bin/idea
+sudo mv idea /usr/bin/idea
+ls
+ssh dev@197.243.110.146
+ssh admin@197.243.110.147
+nvm -v
+nvm 
+nvm install --lts
+node -v
+npm -v
+npm -g install yarn
+yarn -v
+cd projects/iramiro/iramiro-frontend/
+yarn install
+yarn dev
+git commit -am "fix: fix"
+yarn add  eslint-plugin-nuxt@latest
+yarn add -D  eslint-plugin-nuxt@latest
+git commit -am "fix: fix"
+yarn add -D eslint-config-prettier
+git commit -am "fix: fix"
+ls
+cd projects/
+ls
+cd iramiro/iramiro-frontend/
+ls
+yarn dev
+git checkout main
+git log
+git reset --hard 9ece1390e326fd3943899a8602b1a2aa59fbe6a0
+yarn dev
+yarn -D add '@nuxt/typescript-build
+yarn -D add @nuxt/typescript-build
+yarn dev
+git checkout -b fix-migratin-nuxt3
+ls
+git log
+git reset --hard 45132af1818b484a9d8eb93822c5d7e83ad3994d
+git log
+git branch -D fix-migratin-nuxt3 
+git checkout main
+git branch -d fix-migratin-nuxt3 
+git branch -fd fix-migratin-nuxt3 
+ls
+git branch
+git checkout main
+git checkout -f main
+git branch -d fix-migratin-nuxt3 
+git checkout -b fix-migration
+git log
+git reset --hard e5f791bab2ccd322c6ffb9f816c8e9809c20891f
+yarn dev
+ls
+git commit -am
+git log
+yarn install
+yarn dev
+yarn install
+yarn dev
+ls
+rm yarn.lock 
+yarn install
+pnpm
+curl -f https://get.pnpm.io/v6.16.js | node - add --global pnpm
+pnpm instal
+pnpm install
+pnpm dev
+ls
+rm pnpm-lock.yaml 
+yarn install
+yarn dev
+yarn install
+yarn dev
+rm -rf node_modules/
+pnpm install
+pnpm dev
+pnpm install
+pnpm dev
+pnpm 
+pnpn add axios
+pnpm add axios
+npm dev
+pnpm dev
+yarn dev
+pnpm
+pnpm updates
+pnpm update
+pnpm dev
+pnpm add vee-validate@next 
+pnpm dev
+rm node_modules/
+rm -rf node_modules/ pnpm-lock.yaml 
+yarn install
+yarn dev
+git branch
+yarn dev
+yarn install
+yarn dev
+rm -rf node_modules/ .nuxt/
+rm yarn.lock 
+ls
+yarn install
+yarn dev
+yarn allupdate
+yarn dev
+yarn nuxi typecheck
+yarn dev -o
+yarn dev
+git commit -am "fix"
+git push
+git add .
+git config --global user.email "liberintwari@gmail.com"
+git commit -am "fix"
+ls
+yarn lint
+git commit -am "feat: instructor programs"
+git push
+git commit -am "feat: paginate academy users"
+./mvnw package
+./mvnw package -DskipTests
+git push
+ssh dev@http://197.243.110.146/
+ssh dev@197.243.110.146
+ssh admin@197.243.110.147
+git commit -am "fix"
+git push
+git commit -am "fix"
+git push
+mvn clean install
+git commit -am "fix"
+git push
+git commit -am "fix"
+git push
+ls
+git commit -am "feat: fix"
+git push
+git commit -am "feat: fix"
+git push
+git commit -am "feat: fix"
+git push
+[main 391d6e3] feat: fix
+git config --global credential.helper store
+git push
+git commit -am "feat: fix"
+git push
+git commit -am "feat: instructor by id"
+git push
+git commit -am "feat: instructor by id"
+git push
+./mvnw package -DskipTests
+git commit -am "feat: get instructors by course"
+git push
+./mvnw -DskipTests spring-boot:run
+git commit -am "fix"
+git push
+./mvnw -DskipTest 
+npx kill-port 8080
+git commit -am "fix: api"
+git push
+git commit -am "fix: api"
+git push
+git commit -am "fix: api"
+git push
+git commit -am "fix: api"
+git push
+git commit -am "api to get subject and module assgnment"
+git push
+./mvnw package -DskipTests
+./mvnw clean install -DskipTests
+./mvnw spring-boot:run -DskipTests
+git commit -am "fix: get instructors"
+git push
+git commit -am "fix: get instructors"
+git push
+git commit -am "fix: get instructors"
+git push
+git commit -am "fix: issue in creating instructors"
+git commit -am "fix: add missing attributes"
+./mvnw clean package
+./mvnw clean package -DskipTests
+git push
+git pull
+git push
+git commit -am "fix: add missing attributes"
+git push
+git commit -am "fix: add missing attributes"
+git push
+./mvnw spring-boot:run -DskipTests
+./mvnw clean package
+./mvnw clean package -DskipTests
+git commit -am "feat: get student by academy and enrolment status"
+git push
+git commit -am "feat: get student by academy and enrolment status"
+git push
+git commit -am "feat: get student by academy and enrolment status"
+git push
+git commit -am "feat: get student by academy and enrolment status"
+git push
+git commit -am "feat: get student by academy and enrolment status"
+git push
+git commit -am "feat: get student who are not in any class in leve"
+git push
+git status
+git pull
+git push
+git commit -am "feat: check name existance in academy"
+git push
+git commit -am "feat: get user by nextofkin"
+git push
+git commit -am "truncate db"
+git push
+git commit -am "fix"
+git push
+./mvnw clean package
+./mvnw clean package -D skipTests
+git add .
+git commit -am "feat: profile info"
+git add .
+git commit -am "feat: profile info"
+git push
+./mvnw spring-boot:run
+git commit -am "fix"
+git push
+git commit -am "fix"
+git push
+git pull
+git push
+git pull
+git commit -am "fix"
+git push
+git commit -am "fix"
+git push
+git commit -am "fix"
+git push
+git commit -am "feat: using utils"
+git push
+git pull
+git commit -am "feat: get student program enrolments"
+git commit -am "feat: use deployment number to re enrole user"
+./mvnw spring-boot:run
+git commit -am "feat: get programs by academy"
+git status
+git push
+git commit -am "refactor: mail check"
+git push
+./mvnw clean package -DskipTests
+git checkout -b roles
+git checkout main
+git reset --hard f3dbc2e
+git push
+git pull
+git reflog
+git reset --hard f3dbc2e
+git push
+git push -f
+git push
+git checkout -b test
+git push test
+git push origin test
+./mvnw clean install -skipTests
+./mvnw clean install --skipTests
+./mvnw clean install -DskipTests
+git push
+git push origin test
+git commit -am "fix"
+git pull origin main
+./mvnw clean install -DskipTests
+git push
+git push origin test
+git checkou tmain
+git checkout main
+git merge test
+git push
+git pull
+git add .
+git commit -am "fix merge"
+git pull
+./mvnw clean install -DskipTests
+git push
+git pull
+git commit -am "merge"
+git push
+./mvw build
+./mvw clean package
+./mvnw clean package
+./mvnw clean package -DskipTests
+git push
+git pull
+git push
+git commit -am "feat: roles by academy:
+"
+git push
+git commit -am "feat: roles by academy:
+"
+git push
+git commit -am "feat: improved roles"
+git pull
+git push
+git commit -am "fix: ambigous apis"
+git push
+./mvn clean install
+./mvnw clean install
+./mvnw clean install -Dskiptests
+./mvnw clean install -DskipTests
+git commit -am "api"
+git push
+git pull
+git push
+git pull
+git reflog
+git log
+git revert ed7695cf0e0acf830557780f144b5d708954724c
+git push
+git reset --hard ed7695cf0e0acf830557780f144b5d708954724c
+git pull
+git commit -am "fix: relevants"
+git pull
+git push
+git commit -am "fix: promotions:
+"
+git push
+git pull
+git commit -am "feat: fix issue"
+git push
+git commit -am "fix"
+git push
+git commit -am "fix"
+git push
+git commit -am "feat: something"
+git push
+git pull
+git push
+yarn build
+./mvnw build
+./mvnw build -DskipTest
+./mvnw build -DskipTests
+./mvnw clean package -DskipTests
+git push
+git commit -am "feat: record stats"
+git push
+git commit -am "fix"
+git push
+git commit -am "fix"
+git push
+git commit -am "feat: stats by academy"
+git push
+git commit -am "refactor: use stats in mongo"
+git push
+git commit -am "fix: get by promotion status"
+git push
+git commit -am "docs"
+git push
+./mvn build package
+./mvnw build package
+git add .
+git commit -am "feat: get all personal docs"
+git commit -am "chore: syncing all properties"
+git add .
+git commit -am "chore: syncing all properties"
+git push
+git commit -am "fix: problem of unfound users per person"
+git push
+git commit -am "fix: problem of unfound users per person"
+git push
+git add .
+git commit -am "feat: add user"
+git push
+git commit -am "feat: add user"
+git commit -am "feat: fix personal docs upload"
+git push
+git status
+git commit -am "feat: fix personal docs upload"
+git push
+git commit -am "fix: check user existance by service number"
+git add .
+git commit -am "fix: check user existance by service number"
+git push
+git commit -am "fix: rank creation"
+git push
+git commit -am "feat: fix"
+git push
+git commit -am "feat: fix"
+git push
+git commit -am "feat: fix"
+git push
+git commit -am "refactor: allow null residence location id"
+git commit -am "refactor: force to add institution id on admin"
+git push
+git commit -am "fix: add institution admin"
+git push
+./mvnw  clean package -DskipTests
+git commit -am "fix: stats issue"
+git push
+git commit -am "fix: instructor deployment"
+git push
+git pull
+git push
+git commit -am "feat: user intake program"
+git push
+git commit -am "refactor: to snake case"
+git push
+git commit -am "feat: count programs and department"
+git push
+git pull
+git push
+git pull
+git commit -am "feat: count programs and department"
+git push
+git commit -am "feat: count programs and department"
+git push
+git commit -am "feat: count programs and department"
+git push
+git commit -am "feat: put stats creation in thread"
+git push
+git commit -am "feat: put stats creation in thread"
+git push
+git commit -am "feat: put stats creation in thread"
+git push
+git commit -am "final: fix"
+git push
+cd ..
+git clone http://197.243.110.146:9999/e-learning/evaluation-service.git
+git clone http://197.243.110.146:9999/e-learning/timetable-service.git
+ls
+git clone http://197.243.110.146:9999/e-learning/timetable-service.git
+ls
+ping google.com
+git clone http://197.243.110.146:9999/e-learning/timetable-service.git
+git pull
+git pull 
+git pull
+cd administration-service/
+git pull
+git checkout -b csc-prod
+git commit -am "chore: server setup"
+gi tpush
+git push
+git push origin csc-prod
+git pull
+./mvnw help:active-profiles
+./mvnw -DskipTests --spring.profiles.active=dev
+./mvnw clean install -DskipTests --spring.profiles.active=dev
+./mvnw clean install -DskipTests -Dspring.profiles.active=dev
+./mvnw  -DskipTests -Dspring.profiles.active=dev spring-boot:run
+./mvnw  -DskipTests spring-boot:run -Dspring-boot.run.profiles=dev
+./mvnw  -DskipTests spring-boot:run -Drun.jvmArguments="-Dspring.profiles.active=dev"
+./mvnw -DskipTests spring-boot:run

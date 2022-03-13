@@ -1,0 +1,50 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/projects/niss/elms/evaluation-service">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="25mrVxV4K2kBUbVDR7pA49hzQuE">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7660.26" />
+              <option name="buildTimestamp" value="1601973144671" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1646143356022" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/niss/elms/timetable-service">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="25mzSgNkXiuhCBROIoAqBQP138m">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7660.26" />
+              <option name="buildTimestamp" value="1601973144671" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1646147052211" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/niss/elms/administration-service">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="22xNPF1c1m5l7MfDzw9siCZN8iP">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7660.26" />
+              <option name="buildTimestamp" value="1601973163228" />
+              <frame x="10" y="39" width="1900" height="971" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1646771215685" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/projects/niss/elms" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/projects/niss/elms/administration-service" />
+        <option value="$USER_HOME$/projects/niss/elms/timetable-service" />
+        <option value="$USER_HOME$/projects/niss/elms/evaluation-service" />
+      </list>
+    </option>
+  </component>
+</application>

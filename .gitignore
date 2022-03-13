@@ -4,8 +4,11 @@
 **/.cache
 **/.jdks
 *.log
-**/[*]log
-**/[*]log*
-**/[*]cache
-**/[*]cache*
+**/*log
+**/*log*
+**/*cache
+**/*cache*
 .pnpm-store
+.nvm
+**/extensions
+.m2

@@ -1,0 +1,569 @@
+wsl
+ls
+exit
+ls
+exit
+ls
+cd
+ls
+cd
+cd 
+pwd
+ls
+man sudo_root
+mkdir pro
+mkdir projects
+rm -rf pro
+cd projects/
+mkdir iramiro
+cd iramiro/
+git clone https://github.com/Iramiro-Org/iramiro-frontend.git
+git config --global credential.helper store
+git pull
+cd iramiro-frontend/
+git pull
+code .
+git checkout -b migrate
+git rm -rf *
+ls
+ls -al
+git clone https://github.com/productdevbook/nuxt3-app.git
+mv nuxt3-app/* .
+ls
+rm -rf nuxt3-app/
+ls
+yarn install
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+ls
+cd projects/
+ls
+mkdir niss
+ls
+cd niss/
+mkdir elms
+cd elms/
+http://197.243.110.146:9999/e-learning/administration-service.git
+git clone http://197.243.110.146:9999/e-learning/administration-service.git
+ls
+cd administration-service/
+free -h
+free --mega -h
+sudo apt update
+sudo apt upgrade
+sudo apt install default-jre
+wget https://download.jetbrains.com/idea/ideaIU-2020.2.3.tar.gz
+ls
+ls ~/Downloads
+mkdir ~/Downloads
+wget https://download.jetbrains.com/idea/ideaIU-2020.2.3.tar.gz
+ls -al
+mv ideaIU-2020.2.3.tar.gz ~/Downloads/
+ls
+cd
+cd Downloads/
+ls
+tar -zxf ideaIU-2020.2.3.tar.gz
+ls
+cd idea-IU-202.7660.26/
+ls
+cd ..
+ls
+rm -rf idea-IU-202.7660.26
+ls
+ls -al
+ls
+cd ..
+cd Downloads/
+ls
+tar -zxf ideaIU-2020.2.3.tar.gz -C /opt/ideaIU-2020.2.3
+tar -zxf ideaIU-2020.2.3.tar.gz -C /opt/
+sudo tar -zxf ideaIU-2020.2.3.tar.gz -C /opt/
+ls
+cd /opt/
+ls
+cd idea-IU-202.7660.26/
+ls
+cd bin/
+ls
+pwd
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd usr/bin/
+ls
+ls -al
+cat idea
+cd
+ls
+cd projects/niss/elms/e
+cd projects/niss/elms/administration-service/
+ls
+./mvn package
+./mvnw clean verify package
+./mvnw clean verify package -DskipTests
+ls cd /
+ls
+clea
+clear
+ls
+cd /
+ls
+cd projects/
+mkdir mine
+cd mine/
+git clone https://github.com/claranceliberi/cmd-and-bash-scripts.git
+cd cmd-and-bash-scripts/
+code .
+idea
+code .
+git push
+ls
+cd
+idea
+ls
+ls
+nano idea
+ls
+chmod -x
+chmod -x idea 
+ls
+ls -al
+chmod u+x idea 
+ls
+./idea 
+ls
+mv idea /usr/bin/idea
+sudo mv idea /usr/bin/idea
+ls
+ssh dev@197.243.110.146
+ssh admin@197.243.110.147
+nvm -v
+nvm 
+nvm install --lts
+node -v
+npm -v
+npm -g install yarn
+yarn -v
+cd projects/iramiro/iramiro-frontend/
+yarn install
+yarn dev
+git commit -am "fix: fix"
+yarn add  eslint-plugin-nuxt@latest
+yarn add -D  eslint-plugin-nuxt@latest
+git commit -am "fix: fix"
+yarn add -D eslint-config-prettier
+git commit -am "fix: fix"
+ls
+cd projects/
+ls
+cd iramiro/iramiro-frontend/
+ls
+yarn dev
+git checkout main
+git log
+git reset --hard 9ece1390e326fd3943899a8602b1a2aa59fbe6a0
+yarn dev
+yarn -D add '@nuxt/typescript-build
+yarn -D add @nuxt/typescript-build
+yarn dev
+git checkout -b fix-migratin-nuxt3
+ls
+git log
+git reset --hard 45132af1818b484a9d8eb93822c5d7e83ad3994d
+git log
+git branch -D fix-migratin-nuxt3 
+git checkout main
+git branch -d fix-migratin-nuxt3 
+git branch -fd fix-migratin-nuxt3 
+ls
+git branch
+git checkout main
+git checkout -f main
+git branch -d fix-migratin-nuxt3 
+git checkout -b fix-migration
+git log
+git reset --hard e5f791bab2ccd322c6ffb9f816c8e9809c20891f
+yarn dev
+ls
+git commit -am
+git log
+yarn install
+yarn dev
+yarn install
+yarn dev
+ls
+rm yarn.lock 
+yarn install
+pnpm
+curl -f https://get.pnpm.io/v6.16.js | node - add --global pnpm
+pnpm instal
+pnpm install
+pnpm dev
+ls
+rm pnpm-lock.yaml 
+yarn install
+yarn dev
+yarn install
+yarn dev
+rm -rf node_modules/
+pnpm install
+pnpm dev
+pnpm install
+pnpm dev
+pnpm 
+pnpn add axios
+pnpm add axios
+npm dev
+pnpm dev
+yarn dev
+pnpm
+pnpm updates
+pnpm update
+pnpm dev
+pnpm add vee-validate@next 
+pnpm dev
+rm node_modules/
+rm -rf node_modules/ pnpm-lock.yaml 
+yarn install
+yarn dev
+git branch
+yarn dev
+yarn install
+yarn dev
+rm -rf node_modules/ .nuxt/
+rm yarn.lock 
+ls
+yarn install
+yarn dev
+yarn allupdate
+yarn dev
+yarn nuxi typecheck
+yarn dev -o
+yarn dev
+git commit -am "fix"
+git push
+git add .
+git config --global user.email "liberintwari@gmail.com"
+git commit -am "fix"
+ls
+yarn lint
+git commit -am "feat: instructor programs"
+git push
+git commit -am "feat: paginate academy users"
+./mvnw package
+./mvnw package -DskipTests
+git push
+ssh dev@http://197.243.110.146/
+ssh dev@197.243.110.146
+ssh admin@197.243.110.147
+git commit -am "fix"
+git push
+git commit -am "fix"
+git push
+./mvnw package
+./mvnw package -DskipTests
+./mvnw package -DskipTests spring-boot:run
+git commit -am "fix"
+git push
+git commit -am "fix"
+git push
+mvn clean install
+git commit -am "fix"
+git push
+git commit -am "fix"
+git push
+./mvnw package -DskipTests
+./mvnw package -DskipTests spring-boot:run
+IDEA
+idea
+docker
+docker -v
+ls
+cd projects/
+ls
+cd mine/
+ls
+git clone https://github.com/claranceliberi/database-docker-config.git
+cd database-docker-config/
+ls
+docker compose up
+docker compose up -d
+sudo apt update
+java -version
+sudo apt install default-jdk -y
+java -v
+java --version
+javac --version
+ls
+git commit -am "feat: fix"
+git push
+git commit -am "feat: fix"
+./mvnw package -DskipTests -Dspring.profiles.active=dev spring-boot:run
+./mvnw -DskipTests -Dspring.profiles.active=dev spring-boot:run
+yarn dev
+ls
+git commit -am "fix: sawa"
+yarn dev
+yarn allupgrade
+yarn allupdate
+yarn dev
+git commit -am "fix: migration issue"
+git push
+git push origin fix-migration 
+git pull
+git push origin fix-migration 
+git pull
+git pull origin fix-migration 
+git push
+git push origin fix-migration 
+git checkout main
+git pull
+git merge fix-migration 
+git push
+yarn dev
+yarn build
+yarn dev
+git commit -am "fixing"
+git commit -am "fix: fixing"
+git push
+git push origin fix-migration 
+git add .
+git commit -m "jenkins"
+git commit -m "chore:jenkins"
+git commit -m "chore: jenkins"
+git commit -m "chore: ignore commit file"
+git commit -am "chore: ignore commit file"
+git push
+git commit -am "chore: updating tailwind config"
+git push
+yarn dev
+git commit -am "refactor: remove redundancy defineprops"
+git push
+yarn dev
+yarn build
+yarn dev
+yarn start
+yarn preview
+yarn dev
+yarn build
+git commit -am "feat"
+git commit -am "refactor: using node 16"
+git push
+git commit -am "chore: host preview"
+gi tpush
+git push
+git commit -am "chore: host preview"
+git push
+git pull
+git push
+git commit -am "workflow: host preview"
+git commit -am "chore: workflow host preview"
+git push
+git config --global --unset credential.helper
+git push
+yarn dev --host
+yarn build --host
+yarn preview --host
+yarn preview --host --port 3333
+yarn preview --port 3333
+cd projects/
+ls
+cd niss/
+ls
+cd elms/administration-service/
+git push
+ping 197.243.110.146
+hostory
+cd
+history
+sudo apt update
+yarn dev
+ssh admin@197.243.110.147
+git commit -am "fix"
+git push
+git commit -am "fix"
+git push
+git commit -am "fix"
+git push
+git commit -am "send module id"
+git push
+git commit -am "fix"
+git push
+git commit -am "fix"
+git commit -am "fix"
+git push
+git commit --amend --no-edit ""
+git commit -am "feat: fix"
+git push
+[main 391d6e3] feat: fix
+git config --global credential.helper store
+git push
+git commit -am "feat: fix"
+git push
+git commit -am "feat: instructor by id"
+git push
+git commit -am "feat: instructor by id"
+git push
+./mvnw package -DskipTests
+git commit -am "feat: get instructors by course"
+git push
+./mvnw -DskipTests spring-boot:run
+cd projects/
+cd niss/elms/l
+cd niss/elms/
+ls
+cd /
+ls
+cd 
+cd projects/niss/elms/
+git clone http://197.243.110.146:9999/e-learning/frontend-service.git
+cd frontend-service/
+yarn install
+code .
+yarn dev
+git commit -am "fix: get users by academy"
+yarn dev
+yarn build
+ls
+docker ps
+docker exex -it postgres
+docker exex -it postgres bash
+docker exec -it postgres bash
+docker ps
+docker exec -it postgress bash
+docker exec -it postgress bin/bash
+ls
+mv sql.tx.txt sql.sql
+ls
+ls -l
+docker exec -i postgress psql --username liberi [--password liberi] elms_admin_db < sql.sql
+docker exec -i postgress psql --username liberi elms_admin_db < sql.sql
+docker exec -i postgress /bin/bash -c "PGPASSWORD=liberi psql --username liberi elms_db_admin" < sql.sql
+docker exec -i postgress /bin/bash -c "PGPASSWORD=liberi psql --username liberi elms_admin_db" < sql.sql
+yarn build
+git commit -am "fix"
+git commit -am "fix: fix"
+git push
+git pull
+git push
+yarn dev
+yarn install
+yarn dev
+ls
+cd projects/iramiro/iramiro-frontend/
+yarn dev
+yarn start
+yarn start --port 3300
+npx kill-port 3000
+yarn start --port 3300
+sudo yarn start --port 3300
+yarn start
+yarn preview
+git push
+git config --global credential.helper store
+git push
+cd ..
+ls
+cd ..
+ls
+cd projects/
+ls
+mkdir huntersofbook
+cd huntersofbook/
+git clone https://github.com/huntersofbook/hob-write.git
+ping google.com
+ping github.com
+git clone https://github.com/huntersofbook/hob-write.git
+cd hu
+cd hob-write/
+yarn insall
+yarn install
+code .
+yarn dev
+yarn allupdate
+yarn p-upgrade
+yarn install
+yarn p-upgrade
+ping registry.yarnpkg.com
+exit
+cd projects/huntersofbook/hob-write/
+yarn install
+yarn p-upgrade
+yarn install sass
+yarn add sass
+sudo apt-get update && sudo apt-get upgrade
+yarn p-upgrade
+yarn install
+yarn dev
+idea
+ls
+cd projects/
+ls
+npx kill-port 8080
+git commit -am "fix: api"
+git push
+git commit -am "fix: api"
+git push
+git commit -am "fix: api"
+git push
+git commit -am "fix: api"
+git push
+git commit -am "api to get subject and module assgnment"
+git push
+idea
+git commit -am "fixes"
+git push
+git pull
+git commit -am "fixes"
+git push
+./mvnw -DskipTests spring-boot:run
+./mvnw clean install -DskipTests
+./mvnw spring-boot:run -DskipTests
+git commit -am "fix: get instructors"
+git push
+git commit -am "fix: get instructors"
+git push
+git commit -am "fix: get instructors"
+git push
+$ curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key --keyring /usr/share/keyrings/cloud.google.gpg add -
+curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key --keyring /usr/share/keyrings/cloud.google.gpg add -
+la
+ls
+sudo apt update
+sudo apt upgrade -y
+sudo apt install curl apt-transport-https ca-certificates gnupg
+sudo nano /etc/apt/sources.list.d/google-cloud-sdk.list
+$ curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key --keyring /usr/share/keyrings/cloud.google.gpg add -
+curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key --keyring /usr/share/keyrings/cloud.google.gpg add -
+sudo apt update
+ping google.com
+sudo apt update
+curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key --keyring /usr/share/keyrings/cloud.google.gpg add -
+sudo apt update
+sudo apt install google-cloud-sdk
+gcloud beta compute ssh --zone "us-west4-b" "iramiro-instance"  --tunnel-through-iap --project "iramiro-335819"
+gcloud auth login
+gcloud
+gcloud project
+gdloud projects
+gcloud projects
+gcloud projects list
+gcloud config set project iramiro-335819
+gcloud beta compute ssh --zone "us-west4-b" "iramiro-instance"  --tunnel-through-iap --project "iramiro-335819"
+ls
+cd .ssh/
+ls
+cd ..
+ssh -i .ssh/google_compute_engine.pub oclassc_gmail_com@https://34.125.252.154/
+ssh -i .ssh/google_compute_engine.pub oclassc_gmail_com@34.125.252.154
+ssh -i .ssh/google_compute_engine oclassc_gmail_com@34.125.252.154
+git push
+git pull
+git commit -am "fix:latest"
+git commit -am "fix: latest"
+git push
+git pull
+ping 197.243.110.146

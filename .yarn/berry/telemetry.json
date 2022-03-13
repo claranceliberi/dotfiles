@@ -1,0 +1,35 @@
+{
+  "lastUpdate": 1647082214384,
+  "blocks": {
+    "*": {
+      "hits": {
+        "installCount": {
+          "node-modules": 3
+        }
+      },
+      "values": {
+        "version": [
+          "3.2.0"
+        ],
+        "pluginName": [
+          "@yarnpkg/plugin-interactive-tools",
+          "@yarnpkg/plugin-typescript"
+        ],
+        "commandName": [
+          "install"
+        ],
+        "workspaceCount": [
+          "1"
+        ],
+        "dependencyCount": [
+          "150"
+        ]
+      },
+      "enumerators": {
+        "projectCount": [
+          "f7595c0f749e067f9b1a59655e8c3c21c3707c04be871e095902c2157c249673ffb1d8d0eb9c2ab2d36f7f2b141adc5db05ef59b962c18743bc5f5b4276bf822"
+        ]
+      }
+    }
+  }
+}

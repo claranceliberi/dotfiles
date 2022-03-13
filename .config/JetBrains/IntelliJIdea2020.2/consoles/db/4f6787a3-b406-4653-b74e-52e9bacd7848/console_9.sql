@@ -1,0 +1,1 @@
+select count(lc.id) from location lc;

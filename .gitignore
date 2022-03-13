@@ -4,10 +4,10 @@
 **/.cache
 **/.jdks
 *.log
-**/*log
-**/*log*
-**/*cache
-**/*cache*
+**/*[Ll]og
+**/*[Ll]og*
+**/*[Cc]ache
+**/*[Cc]ache*
 .pnpm-store
 .nvm
 **/extensions

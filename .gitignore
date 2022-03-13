@@ -1,3 +1,11 @@
 **/node_modules
 **/repo.git
 **/logs
+**/.cache
+**/.jdks
+*.log
+**/[*]log
+**/[*]log*
+**/[*]cache
+**/[*]cache*
+.pnpm-store

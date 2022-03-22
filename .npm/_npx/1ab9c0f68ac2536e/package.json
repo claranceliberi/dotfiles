@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "husky-init": "^7.0.0"
+    "husky-init": "7.1.0"
   }
 }

@@ -3,12 +3,12 @@
 
 
 create-vite@^2.8.0:
-  version "2.8.0"
-  resolved "https://registry.yarnpkg.com/create-vite/-/create-vite-2.8.0.tgz#27b7e89895f59440690b9d793dc18c98502ed92c"
-  integrity sha512-ckzs8s75NimP9su5WqA2+oZLGFYNxbahjdPYxYeFulQ+m9reO+pAgHe6XCfLl5sAvJ2g/i27Y43Fuh1ewUvXwQ==
+  version "2.9.5"
+  resolved "https://registry.yarnpkg.com/create-vite/-/create-vite-2.9.5.tgz#55743272060dcc6d7b74daeb2e04b37e071729d0"
+  integrity sha512-XdthyVUsyNrPO/h8zXj1wzZ5tr2eb5DXwdsIQpNTARfwtGfsqrkEeA5wTd30GNlJL2xRQyn+su3f7hQQSG3cDg==
   dependencies:
     kolorist "^1.5.1"
-    minimist "^1.2.5"
+    minimist "^1.2.6"
     prompts "^2.4.2"
 
 kleur@^3.0.3:
@@ -17,14 +17,14 @@ kleur@^3.0.3:
   integrity sha512-eTIzlVOSUR+JxdDFepEYcBMtZ9Qqdef+rnzWdRZuMbOywu5tO2w2N7rqjoANZ5k9vywhL6Br1VRjUIgTQx4E8w==
 
 kolorist@^1.5.1:
-  version "1.5.1"
-  resolved "https://registry.yarnpkg.com/kolorist/-/kolorist-1.5.1.tgz#c3d66dc4fabde4f6b7faa6efda84c00491f9e52b"
-  integrity sha512-lxpCM3HTvquGxKGzHeknB/sUjuVoUElLlfYnXZT73K8geR9jQbroGlSCFBax9/0mpGoD3kzcMLnOlGQPJJNyqQ==
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/kolorist/-/kolorist-1.7.0.tgz#8e22bc470ea2d2743dbd461808f8b5246b19f5f4"
+  integrity sha512-ymToLHqL02udwVdbkowNpzjFd6UzozMtshPQKVi5k1EjKRqKqBrOnE9QbLEb0/pV76SAiIT13hdL8R6suc+f3g==
 
-minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+minimist@^1.2.6:
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.8.tgz#c1a464e7693302e082a075cee0c057741ac4772c"
+  integrity sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==
 
 prompts@^2.4.2:
   version "2.4.2"
